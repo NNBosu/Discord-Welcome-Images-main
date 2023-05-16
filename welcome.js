@@ -83,5 +83,3 @@ module.exports = function (client) {
       member.roles.add(roles[i]);
     })
 }
-
-//Coded by Tomato#6966!
